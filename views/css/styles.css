@@ -88,3 +88,19 @@ nav .nav-item:hover{
 nav .nav-item:hover .nav-link{
 	color: #333333;
 }
+/*Styles footer*/
+footer{
+	background-color: #333333;
+	color: #fff;
+}
+footer .row{
+	align-items: center;
+}
+footer .row img{
+	width: 100%;
+	max-width: 200px;
+}
+footer .row .col-md-4 a{
+	margin-bottom: 10px;
+	display: block;
+}

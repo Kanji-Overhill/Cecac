@@ -16,7 +16,7 @@
 
 $mvc = new MvcController();
 $mvc -> enlacesPaginasController();
-
+include "views/modules/footer.php"
  ?>
 
 	<!-- jQuery first, then Tether, then Bootstrap JS. -->
