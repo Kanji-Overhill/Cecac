@@ -5,7 +5,7 @@ class Paginas{
 	public function enlacesPaginasModel($enlaces){
 
 
-		if($enlaces == "inicio" || $enlaces == "servicios" || $enlaces == "miembros" || $enlaces == "estudios" || $enlaces == "noticias" || $enlaces == "contacto" || $enlaces == "salir"){
+		if($enlaces == "inicio" || $enlaces == "servicios" || $enlaces == "miembros" || $enlaces == "noticias" || $enlaces == "contacto" || $enlaces == "salir"){
 
 			$module =  "views/modules/".$enlaces.".php";
 		

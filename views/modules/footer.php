@@ -8,11 +8,7 @@
 					Somos un grupo de empresarios unidos en una A.C. con fin no lucrativo, enfocado en la infraestructura entre asociados con el municipio, el estado y la federacion.
 				</p>
 			</div>
-			<div class="col-md-4">
-				<p>
-					<b>Horario de Oficina</b><br>
-					Lun - Vie/7:00-18:00
-				</p>
+			<div class="col-md-3">
 				<p>
 					<b>Ubicación</b><br>
 					Calle Camino a San Lorenzo, 1202,<br>
@@ -25,9 +21,11 @@
 					<a href="">info@cecac.com.mx</a>
 				</p>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<b>Aliados</b><br>
+				<a href="http://norm.com.mx/" rel="nofollow"><img src="views/images/norm-logo-white.png" alt="Industrias Norm"></a>
 				<a href="http://otcmexico.com.mx/" rel="nofollow"><img src="views/images/logo-otc-final.png" alt="OTC Refacciones"></a>
+				<a href="http://stahlwerke.mx/" rel="nofollow"><img src="views/images/stahl-white.png" alt=""></a>
 				<a href="http://clauz.mx/" rel="nofollow"><img src="views/images/logotipo-CLAUZ-03.png" alt="Clúster Automotriz Zona Centro"></a>
 			</div>
 		</div>

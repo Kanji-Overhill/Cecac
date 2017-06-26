@@ -21,6 +21,7 @@ include "views/modules/footer.php"
 
 	<!-- jQuery first, then Tether, then Bootstrap JS. -->
     <script src="views/js/jquery-3.2.1.min.js"></script>
+    <script src="views/js/bootstrap.min.js"></script>
     <script src="views/js/main.js"></script>
 </body>
 
