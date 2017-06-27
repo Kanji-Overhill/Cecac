@@ -1,3 +1,6 @@
+<!-- 
+	+Developed by TechDev
+	Twitter: @elKanji-->
 <?php
 
 require_once "models/enlaces.php";

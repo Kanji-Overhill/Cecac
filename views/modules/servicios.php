@@ -13,7 +13,7 @@
 				<h2>Capacitación</h2>
 				<p>Estamos conscientes de que uno de los pilares en la industria es el capital humano, por ello nuestros servicios se enfocan en brindar una base de conocimiento técnico que sirvan de apoyo a los procesos. De esta manera se ha proyectado una cartera de cursos de capacitación del interés de las empresas que conforman el CECAC y la zona industrial del Estado. Entre las áreas de interés se encuentra la preparación del capital humano en:</p>
 				<div class="row">
-					<div class="col-5">
+					<div class="col-md-5 col-6">
 						<ul>
 							<li>Diseño industrial</li>
 							<li>Mantenimiento</li>
@@ -23,7 +23,7 @@
 							<li>Análisis de materiales</li>
 						</ul>
 					</div>
-					<div class="col-5">
+					<div class="col-md-5 col-6">
 						<ul>
 							<li>Soldadura</li>
 							<li>Troqueles</li>
@@ -113,5 +113,6 @@
 				<img src="views/images/city-2.png" alt="" class="img-fluid">
 			</div>
 		</div>
+		
 	</section>
 </main>
