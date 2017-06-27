@@ -236,7 +236,7 @@ nav .nav-item:hover .nav-link{
 }
 .servicios-sec-2{
 	background-image: url(../images/banner.jpg);
-	background-size: cover;
+	background-size: cover !important;
 	background-repeat: no-repeat;
 	background-position: bottom;
 }
@@ -272,7 +272,7 @@ nav .nav-item:hover .nav-link{
 	padding-bottom: 50px;
 	background-image: url(../images/P1140692.JPG);
 	background-position: 50%;
-	background-attachment: fixed;
+	background-attachment: fixed !important;
 	background-size: cover;
 }
 .servicios-sec-4 .col-md-6{
@@ -371,9 +371,12 @@ footer .col-6{
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: bottom;
-		background-attachment: fixed;
+		background-attachment: fixed !important;
 	}
 	footer .col-12 p{
 		text-align: center;
+	}
+	.servicios-sec-2 li{
+		font-size: .8em;
 	}
 }
