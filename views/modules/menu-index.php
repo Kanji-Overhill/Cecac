@@ -1,6 +1,6 @@
 <header class="header-index">
 	<section class="home-video">
-		<video src="views/images/IndustriasNorm.mp4" autoplay="true" preload="auto" loop="true"></video>
+		<video src="views/images/IndustriasNorm.mp4" poster="views/images/poster.jpg" autoplay="true" preload="auto" loop="true"></video>
 		<div class="hover"></div>
 		<div class="container-fluid">
 			<div class="row">
