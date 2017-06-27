@@ -22,11 +22,15 @@
 				</p>
 			</div>
 			<div class="col-md-3">
-				<b>Aliados</b><br>
-				<a href="http://norm.com.mx/" rel="nofollow"><img src="views/images/norm-logo-white.png" alt="Industrias Norm"></a>
-				<a href="http://otcmexico.com.mx/" rel="nofollow"><img src="views/images/logo-otc-final.png" alt="OTC Refacciones"></a>
-				<a href="http://stahlwerke.mx/" rel="nofollow"><img src="views/images/stahl-white.png" alt=""></a>
-				<a href="http://clauz.mx/" rel="nofollow"><img src="views/images/logotipo-CLAUZ-03.png" alt="Clúster Automotriz Zona Centro"></a>
+				<div class="row">
+					<div class="col-12">
+						<b>Aliados</b>
+					</div>
+					<div class="col-6"><a href="http://norm.com.mx/" rel="nofollow"><img src="views/images/norm-logo-white.png" alt="Industrias Norm"></a></div>
+					<div class="col-6"><a href="http://otcmexico.com.mx/" rel="nofollow"><img src="views/images/logo-otc-final.png" alt="OTC Refacciones"></a></div>
+					<div class="col-6"><a href="http://stahlwerke.mx/" rel="nofollow"><img src="views/images/stahl-white.png" alt=""></a></div>
+					<div class="col-6"><a href="http://clauz.mx/" rel="nofollow"><img src="views/images/logotipo-CLAUZ-03.png" alt="Clúster Automotriz Zona Centro"></a></div>
+				</div>
 			</div>
 		</div>
 	</section>

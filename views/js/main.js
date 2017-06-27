@@ -3,7 +3,7 @@
 
 document.addEventListener('DOMContentLoaded', function(){
       Typed.new('.element', {
-        strings: ["Asesoría Juridica", "Gestion Pública", "Networking Empresarial","Capacitacion Laboral", "Apoyo Publiciatario", "Proyectos Interempresariales", "Estudios Y Análisis", "Bolsa de Trabajo Online"],
+        strings: ["Asesoría Juridica", "Gestion Pública", "Networking Empresarial","Capacitacion Laboral", "Apoyo Publiciatario", "Proyectos Interempresariales", "Estudios Y Análisis"],
         typeSpeed: 40,
         loop: true,
         startDelay: 500,

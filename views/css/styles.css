@@ -224,20 +224,99 @@ nav .nav-item:hover .nav-link{
 	-moz-filter: grayscale(0);
 }
 /*Styles servicios*/
-.servicios-sec-1{
+.servicios-sec-1 .row{
+	align-items: center;
+	justify-content: center;
+}
+.servicios-sec-1 h1{
+	text-align: center;
+	margin-top: .3em;
+	margin-bottom: .3em;
+	font-size: 5rem;
+}
+.servicios-sec-2{
 	background-image: url(../images/banner.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: bottom;
 }
-.servicios-sec-1 .row{
+.servicios-sec-2 h2{
+	font-weight: bold;
+}
+.servicios-sec-2 .row{
 	align-items: center;
-	min-height: 220px;
 	justify-content: center;
 }
-.servicios-sec-1 h1{
-	text-align: center;
-	font-size: 5rem;
+.servicios-sec-2 li{
+	font-weight: bold;
+}
+.servicios-sec-3 .col-md-6{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.servicios-sec-3 h2{
+	font-weight: bold;
+}
+.servicios-sec-3 .col-md-6:first-child{
+	background-color: #009eff;
+	color: #fff;
+}
+.servicios-sec-3 .col-md-6:first-child p, .servicios-sec-3 .col-md-6:first-child li{
+	color: #ffffff;
+}
+.servicios-sec-3 .col-md-6:last-child{
+	background-color: #eaf0f3;
+}
+.servicios-sec-4{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-image: url(../images/P1140692.JPG);
+	background-position: 50%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.servicios-sec-4 .col-md-6{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	position: relative;
+	z-index: 3;
+}
+.servicios-sec-4 h2{
+	font-weight: bold;
+	color: #ffffff;
+}
+.servicios-sec-4 .col-md-6 p, .servicios-sec-4 .col-md-6 li{
+	color: #ffffff;
+}
+.servicios-sec-4 .col-md-6:first-child{
+	border-right: 1px solid #ffffff;
+}
+.cover-serv-1{
+	background-color: rgba(0,0,0, 0.8);
+	width: 100%;
+	position: absolute;
+	height: 100%;
+	z-index: 2;
+	top: 0;
+}
+.servicios-sec-5{
+	padding-top: 50px;
+}
+.servicios-sec-5 .col-md-6{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	position: relative;
+	z-index: 3;
+}
+.servicios-sec-5 h2{
+	font-weight: bold;
+	color: #333333;
+}
+.servicios-sec-5 .col-md-6 p, .servicios-sec-5 .col-md-6 li{
+	color: #333333;
+}
+.servicios-sec-5 .col-md-6:first-child{
+	border-right: 1px solid #333333;
 }
 /*Styles footer*/
 footer{
@@ -267,4 +346,7 @@ footer .row img{
 footer .row .col-md-4 a{
 	margin-bottom: 10px;
 	display: block;
+}
+footer .col-6{
+	text-align: left;
 }
