@@ -268,12 +268,15 @@ nav .nav-item:hover .nav-link{
 	background-color: #eaf0f3;
 }
 .servicios-sec-4{
-	padding-top: 50px;
-	padding-bottom: 50px;
 	background-image: url(../images/P1140692.JPG);
 	background-position: 50%;
 	background-attachment: fixed !important;
 	background-size: cover;
+}
+.servicios-sec-4 .row{
+	position: relative;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 .servicios-sec-4 .col-md-6{
 	padding-top: 20px;
