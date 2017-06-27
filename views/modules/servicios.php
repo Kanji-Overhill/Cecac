@@ -93,7 +93,7 @@
 				</ul>
 				<p>La realización de estudios genera la información necesaria para que las empresas del CECAC puedan, de acuerdo a sus posibilidades, implementar las mejores prácticas de manufactura de tal manera que puedan ser más competitivas, atender el mercado que no está siendo atendido de manera local, hacer las previsiones de capital y entrenamiento necesarias para prepararse para las futuras prácticas de producción, adquiriendo la maquinaria necesaria, contratando y capacitando al personal adecuado y orientando la innovación.</p>
 			</div>
-			<div class="cover-serv-1"></div>
+			
 		</div>
 	</section>
 	<section class="container-fluid servicios-sec-5">
