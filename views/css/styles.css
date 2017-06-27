@@ -318,6 +318,9 @@ nav .nav-item:hover .nav-link{
 .servicios-sec-5 .col-md-6:first-child{
 	border-right: 1px solid #333333;
 }
+video{
+	transition: all 1s;
+}
 /*Styles footer*/
 footer{
 	background-color: #333333;
