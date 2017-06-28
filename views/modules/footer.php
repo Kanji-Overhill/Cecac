@@ -43,3 +43,57 @@
 		</div>
 	</section>
 </footer>
+<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+        		<h3>Afiliate al CECAC</h3>
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        			<span aria-hidden="true">&times;</span>
+        		</button>
+      		</div>
+			<div class="modal-body">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-12">
+							<p>Quieres conocer mas sobre el CECAC o Afiliarte envianos un mensaje y nos pondremos en contacto contigo</p>
+								
+								<form>
+									<div class="container-fluid">
+										<div class="row">
+											<div class="col-md-6 col-12">
+												<div>
+												    <label for="formGroupExampleInput">Nombre:</label>
+												    <input type="text" required class="form-control" id="formGroupExampleInput" placeholder="Nombre Ejemplo">
+												</div>
+											</div>
+											<div class="col-md-6 col-12">
+												<div class="form-group">
+												    <label for="formGroupExampleInput">Email:</label>
+												    <input type="email" required class="form-control" id="formGroupExampleInput" placeholder="email@ejemplo.com">
+												</div>
+											</div>
+											<div class="col-md-6 col-12">
+												<div class="form-group">
+												    <label for="formGroupExampleInput">Telefono:</label>
+												    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="888-88-8888">
+												</div>
+											</div>
+											<div class="col-md-6 col-12">
+												<div class="form-group">
+												    <label for="formGroupExampleInput">Empresa:</label>
+												    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+												</div>
+											</div>
+										</div>
+									</div>
+								</form>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer"></div>
+		</div>
+	</div>
+</div>

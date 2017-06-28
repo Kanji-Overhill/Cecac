@@ -7,6 +7,8 @@
 	<!-- Bootstrap CSS -->
     <link rel="stylesheet" href="views/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <link rel="stylesheet" href="views/css/styles.css">
+    <script src="/bower_components/webcomponentsjs/webcomponents-loader.js"></script>
+    <link rel="import" href="/bower_components/polymer/polymer.html">
 	<title>CECAC | Corredor Empresarial Cuatlancingo A.C.</title>
 
 </head>
