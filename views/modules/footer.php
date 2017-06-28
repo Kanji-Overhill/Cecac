@@ -35,7 +35,7 @@
 		</div>
 		<div class="row credits">
 			<div class="col-md-8 col-6">
-				<p>Developed by <a href="http://techdev.mx/">TechDev</a> </p>
+				<p>Developed by <a href="http://techdev.mx/" rel="nofollow">TechDev</a> </p>
 			</div>
 			<div class="col-md-4 col-6">
 				<p><a href="#">Aviso de Privacidad</a></p>

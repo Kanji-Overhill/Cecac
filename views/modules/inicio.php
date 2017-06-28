@@ -44,22 +44,22 @@
 			<div class="col-12">
 				<h2>Conoce a nuestros Miembros</h2>
 			</div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo1.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo2.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo3.jpg" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo4.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo5.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo6.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo11.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo8.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo9.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo10.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo12.jpg" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo13.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo14.jpg" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo15.jpg" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo16.png" alt="" class="img-fluid"></a></div>
-			<div class="col-3"><a href=""><img src="views/images/miembros/logo7.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo1.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo2.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo3.jpg" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo4.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo5.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo6.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo11.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo8.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo9.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo10.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo12.jpg" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo13.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo14.jpg" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo15.jpg" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo16.png" alt="" class="img-fluid"></a></div>
+			<div class="col-3"><a href="" rel="nofollow"><img src="views/images/miembros/logo7.png" alt="" class="img-fluid"></a></div>
 		</div>
 	</section>
 </main>

@@ -1,5 +1,5 @@
 <!-- 
-	+Developed by TechDev
+	Developed by TechDev
 	Twitter: @elKanji-->
 <?php
 

@@ -321,6 +321,41 @@ nav .nav-item:hover .nav-link{
 .servicios-sec-5 .col-md-6:first-child{
 	border-right: 1px solid #333333;
 }
+.sec-miembros-1{
+	background-image: url(../images/meeting.jpg);
+	background-position: 50%;
+	background-size: cover;
+}
+.sec-miembros-1 h1{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	font-size: 5em;
+	color: #ffffff;
+	z-index: 3;
+	position: relative;
+}
+.sec-miembros-1 .row{
+	justify-content: center;
+	position: relative;
+}
+.sec-miembros-1 .row p{
+	text-align: center;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	color: #ffffff;
+	position: relative;
+	font-size: 1.3em;
+	z-index: 3
+}
+.cover-miem-1{
+	background-color: rgba(9, 26, 38, 0.5);
+	width: 100%;
+	position: absolute;
+	height: 100%;
+	z-index: 2;
+	top: 0;
+}
 video{
 	transition: all 1s;
 }
@@ -361,6 +396,9 @@ footer .row .col-md-4 a{
 	margin-bottom: 10px;
 	display: block;
 }
+footer .hidden-xs-down .row{
+	align-items: center;
+}
 footer .col-6{
 	text-align: left;
 }
@@ -368,6 +406,9 @@ footer .col-6{
 	.servicios-sec-5 .col-md-6:first-child{
 		border-right: 0px solid #333333;
 		border-bottom: solid #333333;
+	}
+	.servicios-sec-4 .col-md-6:first-child{
+		border-right: 0px;
 	}
 	.servicios-sec-2{
 		background-image: url(../images/banner.jpg);

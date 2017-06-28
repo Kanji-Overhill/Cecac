@@ -3,10 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="shortcut icon" type="image/png" href="views/images/favicon.png"/>
 	<!-- Bootstrap CSS -->
     <link rel="stylesheet" href="views/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <link rel="stylesheet" href="views/css/styles.css">
-	<title>Template</title>
+	<title>CECAC | Corredor Empresarial Cuatlancingo A.C.</title>
 
 </head>
 
