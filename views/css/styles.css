@@ -192,6 +192,11 @@ nav .nav-item:hover .nav-link{
 	color: #666666;
 	background-color: #ffffff;
 }
+.mod:focus{
+	text-decoration: none;
+	color: #666666;
+	background-color: #ffffff;
+}
 .sec-index-3 .col-12 h2{
 	text-align: center;
 	margin-top: 50px;
@@ -420,6 +425,102 @@ video{
 	font-size: 1.3em;
 	text-align: center;
 }
+.close {
+    font-size: 2rem;
+    color: #fff;
+    opacity: .5;
+}
+form input[type="submit"]{
+	width: 100%;
+	background-color: transparent;
+	color: #ffffff;
+	border: 2px solid #ffffff;
+	text-transform: uppercase;
+	font-size: 1.2rem;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	cursor: pointer;
+	transition: all .3s;
+}
+form input[type="submit"]:hover{
+	background-color: #ffffff;
+	border: 2px solid #245980;
+	color: #245980;
+}
+.noticias-sec-1{
+	padding-bottom: 20px;
+}
+.noticias-sec-1 img{
+	width: 120%;
+	transition: all .3s;
+	align-self: center;
+}
+.noticias-sec-1 a:hover img{
+	width: 130%;
+}
+.noticias-sec-1 h1{
+	text-align: center;
+	font-size: 3em;
+	padding-top: 40px;
+	text-transform: uppercase;
+	padding-bottom: 20px;
+}
+.noticias-sec-1 .cov-n{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	z-index: 2;
+	background: linear-gradient(135deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0) 100%);
+	transition: all .3s;
+}
+.noticias-sec-1 a p{
+	color: #ffffff;
+	z-index: 3;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1em;
+	margin-bottom: 0;
+}
+.noticias-sec-1 .col-md-6 a p{
+	font-size: 2em;
+}
+.noticias-sec-1 .col-md-6 .img-con{
+	height: 250px;
+	overflow: hidden;
+	display: flex;
+	align-content: center;
+	position: relative;
+	width: 100%;
+	justify-content: center;
+}
+.noticias-sec-1 .img-con{
+	height: 170px;
+	overflow: hidden;
+	display: flex;
+	position: relative;
+	align-content: center;
+	width: 100%;
+	justify-content: center;
+}
+.noticias-sec-1 .row{
+	align-items: 
+}
+.noticias-sec-1 .col-4 a{
+	text-align: center;
+	display: block;
+	margin-top: 20px;
+}
+.noticias-sec-1 .col-12 a{
+	text-align: center;
+	display: block;
+	margin-top: 20px;
+}
+.noticias-sec-1 .row .col-6{
+	margin-top: 20px;
+}
 /*Styles footer*/
 footer{
 	background-color: #333333;
@@ -464,6 +565,13 @@ footer .col-6{
 	text-align: left;
 }
 @media only screen and (max-width: 500px){
+	.noticias-sec-1 .img-con{
+		height: 100px;
+	}
+	.noticias-sec-1 .row p{
+		font-size: .8em;
+		text-align: center;
+	}
 	.servicios-sec-5 .col-md-6:first-child{
 		border-right: 0px solid #333333;
 		border-bottom: solid #333333;

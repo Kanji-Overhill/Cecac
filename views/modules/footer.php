@@ -53,12 +53,8 @@
         		</button>
       		</div>
 			<div class="modal-body">
-				<div class="container-fluid">
-					<div class="row">
-						<div class="col-12">
-							<p>Quieres conocer mas sobre el CECAC o Afiliarte envianos un mensaje y nos pondremos en contacto contigo</p>
-								
-								<form>
+				<p>Quieres conocer mas sobre el CECAC o Afiliarte envianos un mensaje y nos pondremos en contacto contigo</p>		
+				<form>
 									<div class="container-fluid">
 										<div class="row">
 											<div class="col-md-6 col-12">
@@ -82,18 +78,24 @@
 											<div class="col-md-6 col-12">
 												<div class="form-group">
 												    <label for="formGroupExampleInput">Empresa:</label>
-												    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+												    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Empresa S.A. de C.V.">
+												</div>
+											</div>
+											<div class="col-12">
+												<div class="form-group">
+													<div class="label">Mensaje:</div>
+													<textarea name="" class="form-control" id="" cols="10" rows="5"></textarea>
+												</div>
+											</div>
+											<div class="col-12">
+												<div class="form-group">
+													<input type="submit" value="Enviar Mensaje">
 												</div>
 											</div>
 										</div>
 									</div>
-								</form>
-
-						</div>
-					</div>
-				</div>
+				</form>
 			</div>
-			<div class="modal-footer"></div>
 		</div>
 	</div>
 </div>

@@ -24,7 +24,7 @@
 				<li class="nav-item"><a href="servicios" class="nav-link">Servicios</a></li>
 				<li class="nav-item"><a href="miembros" class="nav-link">Miembros</a></li>
 				<li class="nav-item"><a href="noticias" class="nav-link">Noticias</a></li>
-				<li class="nav-item"><a href="contacto" class="nav-link">Contacto</a></li>
+				<li class="nav-item"><a href="" class="nav-link" data-toggle="modal" data-target=".bd-example-modal-lg">Contacto</a></li>
 			</ul>
 		</div>	
 	</nav>

@@ -35,7 +35,7 @@
 					<li><a href="servicios#estudios">Estudios y Analisis</a></li>
 					<li><a href="servicios#bolsa">Bolsa de Trabajo online</a></li>
 				</ul>
-				<a href="" class="mod">¡Afiliate al CECAC!</a>
+				<a href="" class="mod" data-toggle="modal" data-target=".bd-example-modal-lg">¡Afiliate al CECAC!</a>
 			</div>
 		</div>
 	</section>
