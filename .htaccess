@@ -4,7 +4,7 @@ Options All -Indexes
 
 #Urls amigables
 # Activar RewriteEngine
-
+ErrorDocument 403 http://localhost/Cecac/403.html
 RewriteEngine on
 
 RewriteRule ^(\w+)$ index.php?action=$1

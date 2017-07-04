@@ -49,8 +49,27 @@ class MvcController{
 					</div>';
 		}
 	}
+	public function loginUsuarioController(){
+		if (isset($_POST["nameLogin"])) {
+			$datosController = array('usuario'=>$_POST["nameLogin"], 'password'=>$_POST["passwordLogin"]);
+			$respuesta = Datos::loginUsuarioModel($datosController, "usuarios");
 
-	
+			if($respuesta["usuario"] == $_POST["nameLogin"] && $respuesta["password"] == $_POST["passwordLogin"]){
+				if ($respuesta["rol"] == 0) {
+					session_start();
+					$_SESSION["user"]=true;
+					header("location:user");
+				}else{
+					session_start();
+					$_SESSION["admin"]=true;
+					header("location:administrador");
+				}
+			}else{
+				header("location:fallo");
+			}
+
+		}
+	}
 }
 
 ?>

@@ -18,7 +18,7 @@
 				<p>
 					<b>Informes</b><br>
 					222-269-70-22<br>
-					<a href="">info@cecac.com.mx</a>
+					<a href="mailto:j.reyes@cecac.com.mx">j.reyes@cecac.com.mx</a>
 				</p>
 			</div>
 			<div class="col-md-3 hidden-xs-down">

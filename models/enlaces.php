@@ -9,7 +9,33 @@ class Paginas{
 
 			$module =  "views/modules/".$enlaces.".php";
 		
-		}else{
+		}
+		else if($enlaces == "admin"){
+
+			$module =  "views/modules/admin/login.php";
+		
+		}
+		else if($enlaces == "error-403"){
+
+			$module =  "403.html";
+		
+		}
+		else if($enlaces == "administrador"){
+
+			$module =  "views/modules/admin/administrador.php";
+		
+		}
+		else if($enlaces == "user"){
+
+			$module =  "views/modules/admin/usuario.php";
+		
+		}
+		else if($enlaces == "fallo"){
+
+			$module =  "views/modules/admin/login.php";
+		
+		}
+		else{
 
 			$module =  "views/modules/inicio.php";
 

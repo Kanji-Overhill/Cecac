@@ -521,6 +521,72 @@ form input[type="submit"]:hover{
 .noticias-sec-1 .row .col-6{
 	margin-top: 20px;
 }
+/*Styles Administrador*/
+.menu-admin{
+	background-color: #fff;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 15px;
+}
+.menu-admin img{
+	width: 100%;
+	max-width: 300px;
+}
+.menu-user{
+	background-color: #fff;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.menu-user img{
+	width: 100%;
+	max-width: 150px;
+}
+.menu-user .col-9{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	background-color: #009eff;
+}
+.menu-user .col-9 h2{
+	align-self: center;
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 2.8em;
+}
+.login-sec .row{
+	justify-content: center;
+}
+.login-sec input[type="text"], .login-sec input[type="password"]{
+	border:1px solid #000;
+	border-radius: 0;
+}
+.login-sec .row label{
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+.login-sec{
+	margin-bottom: 50px;
+}
+.login-sec input[type="submit"]{
+	width: 100%;
+	background-color: transparent;
+	color: #245980;
+	border: 2px solid #245980;
+	text-transform: uppercase;
+	font-size: 1.2rem;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	cursor: pointer;
+	transition: all .3s;
+}
+.login-sec input[type="submit"]:hover{
+	background-color: #245980;
+	border: 2px solid #245980;
+	color: #ffffff;
+}
 /*Styles footer*/
 footer{
 	background-color: #333333;
@@ -563,6 +629,14 @@ footer .hidden-xs-down .row{
 }
 footer .col-6{
 	text-align: left;
+}
+/*Styles Errores*/
+.error-403{
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+.error-403 .row{
+	align-items: center;
 }
 @media only screen and (max-width: 500px){
 	.noticias-sec-1 .img-con{
