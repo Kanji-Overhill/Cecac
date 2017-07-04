@@ -13,6 +13,14 @@ class Datos extends Conexion{
 
 		$stmt->close();
 	}
+	public function vistaUsuarioModel($tabla){
+		$stmt = Conexion::conectar()->prepare("SELECT url, texto, status, fecha FROM $tabla ORDER BY status");
+		$stmt->execute();
+
+		return $stmt->fetchAll();
+
+		$stmt->close();
+	}
 }
 class Scrapping{
 	public function scrappingNoticias1Model($enlacesModel){

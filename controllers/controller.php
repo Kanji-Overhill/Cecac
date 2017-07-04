@@ -70,6 +70,40 @@ class MvcController{
 
 		}
 	}
+	public function vistaUsuarioController(){
+		$respuesta = Datos::vistaUsuarioModel("archivos");
+		foreach ($respuesta as $datos => $item) {
+			echo '<tr>
+				      <th scope="row">'.$item["fecha"].'</th>
+				      <td>'.$item["texto"].'</td>
+				      <td><a target="blank" href="'.$item["url"].'"><img src="views/images/003-file.svg" alt=""></a></td>
+				      <td class="alert ';
+				    if ($item["status"] == 0) {
+						echo 'alert-danger"><strong>Pendiente</strong></td>';
+					}
+					else{
+						echo 'alert-success"><strong>Pagado</strong></td>';
+					}
+				    echo '</tr>';
+		}
+	}
+	public function vistaAdministradorController(){
+		$respuesta = Datos::vistaUsuarioModel("archivos");
+		foreach ($respuesta as $datos => $item) {
+			echo '<tr>
+				      <th scope="row">'.$item["fecha"].'</th>
+				      <td>'.$item["texto"].'</td>
+				      <td><a target="blank" href="'.$item["url"].'"><img src="views/images/003-file.svg" alt=""></a></td>
+				      <td class="alert ';
+				    if ($item["status"] == 0) {
+						echo 'alert-danger"><strong>Pendiente</strong></td>';
+					}
+					else{
+						echo 'alert-success"><strong>Pagado</strong></td>';
+					}
+				    echo '</tr>';
+		}
+	}
 }
 
 ?>

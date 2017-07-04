@@ -638,6 +638,44 @@ footer .col-6{
 .error-403 .row{
 	align-items: center;
 }
+/*Styles app*/
+.table-bordered img{
+	max-width: 50px;
+}
+.table-bordered strong{
+	font-size: 1.3em;
+}
+.table-bordered td, .table-bordered th{
+	text-align: center;
+}
+.table-bordered thead td, .table-bordered thead th{
+	text-align: center;
+}
+.table td, .table th{
+	vertical-align: middle;
+}
+.admin-table .row{
+	align-items: center;
+	justify-content: center;
+}
+.admin-table .row .col-12{
+	text-align: center;
+}
+.admin-table .row .col-12:first-child{
+	margin-bottom: 15px;
+}
+.admin-table .row .col-12 a img{
+	max-width: 50px;
+	margin-left: 20px;
+}
+.admin-table .row .col-12 a{
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+.add-but{
+	cursor: pointer;
+}
 @media only screen and (max-width: 500px){
 	.noticias-sec-1 .img-con{
 		height: 100px;
